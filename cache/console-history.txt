@@ -1,0 +1,12 @@
+result
+await result
+result
+let result = await coin.transfer(accounts[1], 100)
+let result = coin.transfer(accounts[1], 100)
+value.toString()
+value
+let value = await coin.balanceOf(accounts[0])
+accounts
+let accounts = await ethers.provider.listAccounts()
+const coin = await Coin.attach('0x17aB05351fC94a1a67Bf3f56DdbB941aE6c63E25')
+const Coin = await ethers.getContractFactory('ExampleERC20');
